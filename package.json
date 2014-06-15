@@ -1,0 +1,26 @@
+{
+  "name": "tap-failed",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "tap-parser": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wraithan/tap-failed.git"
+  },
+  "keywords": [
+    "tap"
+  ],
+  "author": "Wraithan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wraithan/tap-failed/issues"
+  },
+  "homepage": "https://github.com/wraithan/tap-failed"
+}
